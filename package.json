@@ -1,24 +1,28 @@
 {
-  "name": "discordjs-template",
+  "name": "discordjs-tests",
   "version": "1.0.0",
-  "description": "a discord bot template",
+  "description": "a discord bot",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "Discord.JS-Template"
+    "url": "Discord.JS-Tests"
   },
-  "author": "Samuel-ldm",
+  "author": "CallMeMrSam",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^3.2.0",
     "discord.js": "^12.2.0",
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "log-symbols": "^4.0.0",
     "moment": "^2.26.0",
     "path": "^0.12.7",
+    "snekfetch": "^4.0.4",
     "util": "^0.12.3"
   }
 }

@@ -31,8 +31,6 @@ module.exports = class extends Command {
             commands[cmd.info.category].push(cmd.info);
         });
 
-        
-
         console.log(commands)
     }
 }
