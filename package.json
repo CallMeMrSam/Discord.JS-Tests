@@ -20,7 +20,7 @@
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "log-symbols": "^4.0.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "path": "^0.12.7",
     "snekfetch": "^4.0.4",
     "util": "^0.12.3"
